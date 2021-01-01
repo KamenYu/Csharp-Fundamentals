@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt_Sort_And_Print_Array", "Encrypt_Sort_And_Print_Array\Encrypt_Sort_And_Print_Array.csproj", "{7EE41AB5-AC4D-438C-A4A5-FC84F17DDB9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{EF77D5EB-551B-4FE1-86A2-430D4C3E8F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldAndSum", "FoldAndSum\FoldAndSum.csproj", "{238F25A8-B20A-4E7D-A9D8-60B4D1116FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE41AB5-AC4D-438C-A4A5-FC84F17DDB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE41AB5-AC4D-438C-A4A5-FC84F17DDB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE41AB5-AC4D-438C-A4A5-FC84F17DDB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE41AB5-AC4D-438C-A4A5-FC84F17DDB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF77D5EB-551B-4FE1-86A2-430D4C3E8F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF77D5EB-551B-4FE1-86A2-430D4C3E8F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF77D5EB-551B-4FE1-86A2-430D4C3E8F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF77D5EB-551B-4FE1-86A2-430D4C3E8F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{238F25A8-B20A-4E7D-A9D8-60B4D1116FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238F25A8-B20A-4E7D-A9D8-60B4D1116FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238F25A8-B20A-4E7D-A9D8-60B4D1116FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238F25A8-B20A-4E7D-A9D8-60B4D1116FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
